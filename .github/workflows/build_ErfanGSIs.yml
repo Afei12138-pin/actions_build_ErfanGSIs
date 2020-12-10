@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://xbeibeix.com/api/189/?url=https://h5.cloud.189.cn/share.html#/t/amiyErqieauq&password=psd2
+  ROM_URL: https://cloud189-guizhou-person.oos-gzgy.ctyunapi.cn/PERSONCLOUD/72c7b981-551e-4fed-9e80-bf32e98bcac5.zip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=caf5e6901807aca55a45&x-amz-UID=561538608&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22LG%20V350%20N30a%20.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D10240%2Cconcurrency%3D20&Signature=1djHj23cvQf4bXPqckm3YQ96160%3D&x-amz-SHID=170409715&Expires=1607648099&x-amz-FSIZE=3187091484&x-amz-UFID=61418112115276752
   ROM_NAME: HydrogenOS
   TZ: Asia/Shanghai
 
